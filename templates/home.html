@@ -1,0 +1,56 @@
+{% extends 'layout_main.html' %}
+{% block content %}
+    <div class = 'content-section'>
+        <form method = "POST"  action = "/">
+            {{ main_form.hidden_tag() }}
+            <fieldset class="form-group">
+                <legend class = "border-bottom mb-4">Access Data</legend>
+                <div id = "Main">
+                    <div class = "form-group">
+                        {{ main_form.field_name.label(class = "form-control-label")}}
+                        {{ main_form.field_name(class = "form-control form-control-lg")}}
+                    </div>
+                    <div class = "form-group">
+                        {{ main_form.data_type.label(class = "form-control-label")}}
+                        {{ main_form.data_type(class = "form-control form-control-lg")}}
+                    </div>
+                </div>
+                <div id = "String">
+                    <div class = "form-group">
+                        {{ main_form.data.label(class="form-control-label") }}
+                        {{ main_form.data(class = "form-control form-control-lg") }}
+                    </div>
+                </div>
+                <div id = "Float">
+                    <div class = "form-group">
+                        {{ main_form.op.label(class = "form-control-label")}}
+                        {{ main_form.op(class = "form-control form-control-lg") }}
+                    </div>
+                </div>
+                <div id="operation_yes">
+                    <div class="form-group">
+                        {{ main_form.Enum.label(class = "form-control-label")}}
+                        {{ main_form.Enum(class = "form-control form-control-lg")}}
+                    </div>
+                    <div class="form-group">
+                        {{ main_form.num.label(class = "form-control-label")}}
+                        {{ main_form.num(class = "form-control form-control-lg")}}
+                    </div>
+                    <div class="form-group">
+                        {{ main_form.thresh.label(class = "form-control-label")}}
+                        {{ main_form.thresh(class = "form-control form-control-lg")}}
+                    </div>
+                </div>
+                <div id = "operation_no">
+                    <div class = "form-group">
+                        {{ main_form.mobile.label(class = "form-control-label")}}
+                        {{ main_form.mobile(class = "form-control form-control-lg")}}
+                    </div>
+                </div>
+            </fieldset>
+            <div class = "form-group">
+                {{ main_form.submit(class = "btn btn-outline-info")}}
+            </div>
+        </form>
+    </div>
+{% endblock %}

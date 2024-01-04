@@ -1,0 +1,8 @@
+{% extends 'layout_main.html' %}
+{% block content_2 %}
+    {% for plot_image in Plot_list %}
+        <div class = "img-plot">
+            <img src="data:image/png;base64,{{ plot_image }}" alt="Plot">
+        </div>
+    {% endfor %}
+{% endblock %}
