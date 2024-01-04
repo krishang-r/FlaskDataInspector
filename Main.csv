@@ -1,0 +1,339 @@
+Name,Dob,Issued_Date,Annual_Income,Address,Phone,Status,Account_Type,Transaction_Amount,Payment_Method,Comments,Active,Children,Loan_Approved
+John Doe,1980-05-25,2022-01-15,85000,123 Main St,9911100250,Married,Savings_Account,5000,Credit_Card,,Yes,2,Yes
+Jane Smith,1995-09-12,2021-11-28,,456 Oak St,9911111111,Single,Checking_Account,8000,Debit_Card,,No,0,No
+Bob Johnson,1975-03-08,2023-02-10,105000,789 Pine St,9911122222,,Investment_Account,"['12000', '13000', '14000']",Cash,,Yes,3,Yes
+Alice Brown,1988-12-03,2022-05-20,62000,101 Elm St,9911133333,Divorced,Savings_Account,"['-5000']",,,"Yes",1,No
+Charlie Davis,1990-07-18,2021-10-05,92000,202 Maple St,9911144444,,Checking_Account,"['6000', '7000']",Bank_Transfer,,Yes,2,Yes
+Eva White,1985-02-28,2023-04-03,78000,,9911155555,Married,Savings_Account,,Cash,,No,2,Yes
+David Miller,1970-11-15,2022-08-12,110000,404 Birch St,,Married,Checking_Account,15000,Debit_Card,,Yes,4,Yes
+Sophie Anderson,1998-06-10,2021-12-30,55000,505 Spruce St,9911166666,Single,,7000,Bank_Transfer,,"Yes",0,No
+Robert Lee,1982-09-22,2023-01-05,95000,,9911177777,Married,Savings_Account,,Credit_Card,,No,2,Yes
+Amy Garcia,1993-04-07,2022-03-18,68000,707 Oak St,9911188888,Married,Checking_Account,"['4000', '4500']",Debit_Card,,Yes,1,No
+Mark Taylor,1978-08-20,2023-06-25,120000,808 Elm St,9911199999,Single,Investment_Account,10000,,,"Yes",3,Yes
+Linda Martinez,1987-01-12,2022-07-08,60000,909 Maple St,9911200000,Divorced,Savings_Account,"['5500', '6000']",Bank_Transfer,,No,2,Yes
+Tom Jackson,1991-12-30,2023-03-22,85000,101 Cedar St,,Married,Checking_Account,7500,Credit_Card,,Yes,2,Yes
+Grace Brown,1983-07-05,2022-11-10,70000,202 Birch St,9911201111,Single,Investment_Account,"['8000', '8500']",Debit_Card,,Yes,1,Yes
+Emily #123,1991-08-15,2023-01-02,80000,303 Oak St,9911202222,Single,Checking_Account,6000,Credit_Card,,Yes,1,Yes
+Michael-.,1986-04-18,2021-09-14,95000,404 Elm St,,Married,Savings_Account,,Cash,,"Yes",2,Yes
+Sarah.,,2023-04-30,75000,505 Pine St,9911203333,Married,Investment_Account,8500,Bank_Transfer,,"No",3,No
+Robert O'Reilly,1974-12-10,2022-08-05,110000,606 Cedar St,9911204444,Single,Investment_Account,12000,Debit_Card,,Yes,2,Yes
+Daisy 456,1989-03-22,2023-03-08,67000,707 Spruce St,9911205555,Divorced,Savings_Account,"['3000', '3200']",Credit_Card,,No,1,Yes
+Timothy <>,1997-11-05,,92000,808 Maple St,9911206666,Single,Checking_Account,5000,Cash,,"Yes",2,Yes
+Rebecca,1984-06-28,2022-12-15,68000,909 Pine St,9911207777,Married,Savings_Account,,Bank_Transfer,,No,2,Yes
+Matthew Brown,1990-09-18,2022-06-01,75000,101 Oak St,9911208888,Single,Checking_Account,"['4500']",Debit_Card
+John Doe,1980-05-25,2022-01-15,85000,123 Main St,9911100250,Married,Savings_Account,5000,Credit_Card,,Yes,2,Yes
+Jane Smith,1995-09-12,2021-11-28,,456 Oak St,9911111111,Single,Checking_Account,8000,Debit_Card,,No,0,No
+Bob Johnson,1975-03-08,2023-02-10,105000,789 Pine St,9911122222,,Investment_Account,"['12000', '13000', '14000']",Cash,,Yes,3,Yes
+Alice Brown,1988-12-03,2022-05-20,62000,101 Elm St,9911133333,Divorced,Savings_Account,"['-5000']",,,"Yes",1,No
+Charlie Davis,1990-07-18,2021-10-05,92000,202 Maple St,9911144444,,Checking_Account,"['6000', '7000']",Bank_Transfer,,Yes,2,Yes
+Eva White,1985-02-28,2023-04-03,78000,,9911155555,Married,Savings_Account,,Cash,,No,2,Yes
+David Miller,1970-11-15,2022-08-12,110000,404 Birch St,,Married,Checking_Account,15000,Debit_Card,,Yes,4,Yes
+Sophie Anderson,1998-06-10,2021-12-30,55000,505 Spruce St,9911166666,Single,,7000,Bank_Transfer,,"Yes",0,No
+Robert Lee,1982-09-22,2023-01-05,95000,,9911177777,Married,Savings_Account,,Credit_Card,,No,2,Yes
+Amy Garcia,1993-04-07,2022-03-18,68000,707 Oak St,9911188888,Married,Checking_Account,"['4000', '4500']",Debit_Card,,Yes,1,No
+Mark Taylor,1978-08-20,2023-06-25,120000,808 Elm St,9911199999,Single,Investment_Account,10000,,,"Yes",3,Yes
+Linda Martinez,1987-01-12,2022-07-08,60000,909 Maple St,9911200000,Divorced,Savings_Account,"['5500', '6000']",Bank_Transfer,,No,2,Yes
+Tom Jackson,1991-12-30,2023-03-22,85000,101 Cedar St,,Married,Checking_Account,7500,Credit_Card,,Yes,2,Yes
+Grace Brown,1983-07-05,2022-11-10,70000,202 Birch St,9911201111,Single,Investment_Account,"['8000', '8500']",Debit_Card,,Yes,1,Yes
+Emily #123,1991-08-15,2023-01-02,80000,303 Oak St,9911202222,Single,Checking_Account,6000,Credit_Card,,Yes,1,Yes
+Michael-.,1986-04-18,2021-09-14,95000,404 Elm St,,Married,Savings_Account,,Cash,,"Yes",2,Yes
+Sarah.,,2023-04-30,75000,505 Pine St,9911203333,Married,Investment_Account,8500,Bank_Transfer,,"No",3,No
+Robert O'Reilly,1974-12-10,2022-08-05,110000,606 Cedar St,9911204444,Single,Investment_Account,12000,Debit_Card,,Yes,2,Yes
+Daisy 456,1989-03-22,2023-03-08,67000,707 Spruce St,9911205555,Divorced,Savings_Account,"['3000', '3200']",Credit_Card,,No,1,Yes
+Timothy <>,1997-11-05,,92000,808 Maple St,9911206666,Single,Checking_Account,5000,Cash,,"Yes",2,Yes
+Rebecca,1984-06-28,2022-12-15,68000,909 Pine St,9911207777,Married,Savings_Account,,Bank_Transfer,,No,2,Yes
+Matthew Brown,1990-09-18,2022-06-01,75000,101 Oak St,9911208888,Single,Checking_Account,"['4500']",Debit_Card
+John Doe,1980-05-25,2022-01-15,85000,123 Main St,9911100250,Married,Savings_Account,5000,Credit_Card,,Yes,2,Yes
+Jane Smith,1995-09-12,2021-11-28,,456 Oak St,9911111111,Single,Checking_Account,8000,Debit_Card,,No,0,No
+Bob Johnson,1975-03-08,2023-02-10,105000,789 Pine St,9911122222,,Investment_Account,"['12000', '13000', '14000']",Cash,,Yes,3,Yes
+Alice Brown,1988-12-03,2022-05-20,62000,101 Elm St,9911133333,Divorced,Savings_Account,"['-5000']",,,"Yes",1,No
+Charlie Davis,1990-07-18,2021-10-05,92000,202 Maple St,9911144444,,Checking_Account,"['6000', '7000']",Bank_Transfer,,Yes,2,Yes
+Eva White,1985-02-28,2023-04-03,78000,,9911155555,Married,Savings_Account,,Cash,,No,2,Yes
+David Miller,1970-11-15,2022-08-12,110000,404 Birch St,,Married,Checking_Account,15000,Debit_Card,,Yes,4,Yes
+Sophie Anderson,1998-06-10,2021-12-30,55000,505 Spruce St,9911166666,Single,,7000,Bank_Transfer,,"Yes",0,No
+Robert Lee,1982-09-22,2023-01-05,95000,,9911177777,Married,Savings_Account,,Credit_Card,,No,2,Yes
+Amy Garcia,1993-04-07,2022-03-18,68000,707 Oak St,9911188888,Married,Checking_Account,"['4000', '4500']",Debit_Card,,Yes,1,No
+Mark Taylor,1978-08-20,2023-06-25,120000,808 Elm St,9911199999,Single,Investment_Account,10000,,,"Yes",3,Yes
+Linda Martinez,1987-01-12,2022-07-08,60000,909 Maple St,9911200000,Divorced,Savings_Account,"['5500', '6000']",Bank_Transfer,,No,2,Yes
+Tom Jackson,1991-12-30,2023-03-22,85000,101 Cedar St,,Married,Checking_Account,7500,Credit_Card,,Yes,2,Yes
+Grace Brown,1983-07-05,2022-11-10,70000,202 Birch St,9911201111,Single,Investment_Account,"['8000', '8500']",Debit_Card,,Yes,1,Yes
+Emily #123,1991-08-15,2023-01-02,80000,303 Oak St,9911202222,Single,Checking_Account,6000,Credit_Card,,Yes,1,Yes
+Michael-.,1986-04-18,2021-09-14,95000,404 Elm St,,Married,Savings_Account,,Cash,,"Yes",2,Yes
+Sarah.,,2023-04-30,75000,505 Pine St,9911203333,Married,Investment_Account,8500,Bank_Transfer,,"No",3,No
+Robert O'Reilly,1974-12-10,2022-08-05,110000,606 Cedar St,9911204444,Single,Investment_Account,12000,Debit_Card,,Yes,2,Yes
+Daisy 456,1989-03-22,2023-03-08,67000,707 Spruce St,9911205555,Divorced,Savings_Account,"['3000', '3200']",Credit_Card,,No,1,Yes
+Timothy <>,1997-11-05,,92000,808 Maple St,9911206666,Single,Checking_Account,5000,Cash,,"Yes",2,Yes
+Rebecca,1984-06-28,2022-12-15,68000,909 Pine St,9911207777,Married,Savings_Account,,Bank_Transfer,,No,2,Yes
+Matthew Brown,1990-09-18,2022-06-01,75000,101 Oak St,9911208888,Single,Checking_Account,"['4500']",Debit_Card
+Marie,1994-02-25,2023-02-28,60000,303 Pine St,9911209999,Married,Savings_Account,9000,Bank_Transfer,,"Yes",1,No
+Jack Thompson,1981-07-08,2022-05-12,98000,404 Cedar St,9911210000,Single,Investment_Account,"['7000', '7500']",Cash,,Yes,2,Yes
+Emma Taylor,1996-12-18,2023-01-20,82000,505 Elm St,9911211111,Married,Checking_Account,6200,Debit_Card,,Yes,3,Yes
+Oliver Brown,1984-10-30,2022-11-03,77000,606 Maple St,9911212222,Divorced,Savings_Account,"['4300']",Credit_Card,,No,1,Yes
+Sophia White,1990-03-15,2023-04-15,70000,707 Birch St,9911213333,Single,Checking_Account,,Bank_Transfer,,Yes,1,Yes
+Henry Davis,1987-09-28,2022-08-08,105000,808 Spruce St,,Married,Investment_Account,11000,,,"Yes",2,Yes
+Ava Martin,1993-05-22,2023-03-05,64000,909 Oak St,9911214444,Single,Savings_Account,"['4800']",Cash,,No,2,Yes
+Logan Johnson,1982-08-12,2022-12-10,90000,101 Cedar St,9911215555,Married,Checking_Account,5600,Debit_Card,,Yes,1,Yes
+Harper Anderson,1998-04-03,2023-01-28,75000,202 Elm St,9911216666,Single,Savings_Account,"['3200', '3500']",Bank_Transfer,,Yes,3,Yes
+Leo Smith,1985-11-18,2022-06-15,98000,303 Maple St,9911217777,Divorced,Investment_Account,7800,,,"Yes",2,Yes
+Grace Taylor,1991-03-22,2023-05-08,84000,404 Birch St,9911218888,Single,Checking_Account,7100,Credit_Card,,No,1,Yes
+Elijah Miller,1989-06-28,2022-10-22,110000,505 Spruce St,9911219999,Married,Savings_Account,"['6000', '6500']",Cash,,Yes,2,Yes
+Aria Garcia,1994-09-15,2023-03-18,72000,606 Oak St,9911220000,Single,Checking_Account,4800,Debit_Card,,Yes,2,Yes
+Liam Johnson,1990-04-15,2022-01-10,90000,123 Main St,991122111,Married,Savings_Account,6000,Credit_Card,,Yes,2,Yes
+Olivia Smith,1985-08-22,2021-11-25,75000,456 Oak St,9911222222,Single,Checking_Account,"['7000', '7500']",Debit_Card,,No,0,No
+Noah Brown,1972-03-05,2023-03-10,120000,789 Pine St,9911223333,,Investment_Account,13000,Bank_Transfer,,Yes,3,Yes
+Ava Davis,1994-12-18,2022-05-15,68000,101 Elm St,1234567,Divorced,Savings_Account,"['-5500']",,,"Yes",1,No
+Sophia Martin,1988-06-28,2022-11-05,85000,202 Maple St,99112244444,,Checking_Account,"['5000', '5500']",Bank_Transfer,,Yes,2,Yes
+Jackson Taylor,1991-10-10,2023-02-22,98000,303 Oak St,,Married,Savings_Account,12000,Debit_Card,,Yes,4,Yes
+Oliver White,1975-09-02,2022-08-08,110000,404 Birch St,123456789,,Checking_Account,7000,Bank_Transfer,,Yes,2,Yes
+Emma Martinez,1998-04-30,2021-10-20,60000,505 Spruce St,9911225555,Married,Savings_Account,"['6000', '6500']",Cash,,No,2,Yes
+Sophia Thompson,1987-11-12,2023-05-03,72000,606 Cedar St,99112266666,Single,Investment_Account,8500,Bank_Transfer,,"Yes",3,Yes
+Liam Taylor,1996-08-10,2022-07-15,95000,707 Maple St,9911227777,Single,Savings_Account,"['3200']",Debit_Card,,Yes,1,Yes
+Ava Jackson,1992-01-25,2023-01-28,110000,808 Elm St,1234567890,Divorced,Checking_Account,"['4200']",,Yes,2,Yes
+Olivia Anderson,1980-05-10,2022-06-12,78000,909 Pine St,9911229999,Single,Savings_Account,"['4800', '5000']",Bank_Transfer,,No,2,Yes
+Liam Thompson,1995-09-02,2023-04-15,84000,101 Cedar St,12345678,Married,Checking_Account,7500,Credit_Card,,Yes,2,Yes
+Ava Taylor,1983-06-28,2022-11-08,70000,202 Birch St,9911230000,Single,Investment_Account,"['6200', '6500']",Debit_Card,,Yes,1,Yes
+Noah Smith,1990-03-15,2023-01-10,80000,303 Pine St,9911231111,Married,Checking_Account,4300,Bank_Transfer,,No,0,No
+Sophia Thompson,1993-01-10,2022-12-30,92000,404 Elm St,9911232222,Single,Savings_Account,"['3200', '3500']",Cash,,Yes,2,Yes
+Jackson Taylor,1978-08-25,2023-06-22,105000,505 Pine St,12345678901,Married,Investment_Account,"['4800']",Credit_Card,,Yes,3,Yes
+Emma Brown,1992-12-05,2022-08-28,67000,606 Cedar St,9911233333,Divorced,Savings_Account,5600,Bank_Transfer,,No,1,Yes
+Oliver Martin,1986-10-22,2023-03-18,75000,707 Spruce St,1234567,Single,Checking_Account,3200,Credit_Card,,Yes,2,Yes
+Sophia Davis,1999-02-18,2022-12-15,85000,808 Maple St,9911235555,Married,Savings_Account,"['6500']",Cash,,Yes,2,Yes
+Liam Taylor,1994-05-22,2023-01-20,64000,909 Oak St,123456789,Single,Checking_Account,"['7000', '7500']",Debit_Card
+Olivia Jackson,1981-07-08,2022-05-12,98000,404 Cedar St,9911237777,Single,Investment_Account,3200,Cash,,Yes,2,Yes
+Noah White,1997-12-18,2023-03-05,82000,505 Elm St,1234567,Married,Checking_Account,"['4500']",Credit_Card,,No,3,Yes
+Emma Thompson,1984-10-30,2022-11-03,77000,606 Maple St,9911238888,Divorced,Savings_Account,7100,Bank_Transfer,,No,1,Yes
+Sophia Martin,1990-03-15,2023-04-15,70000,707 Birch St,1234567890,Single,Checking_Account,"['4800']",Credit_Card,,Yes,1,Yes
+Jackson Davis,1987-09-28,2022-08-08,105000,808 Spruce St,9911240000,Married,Investment_Account,4800,Bank_Transfer,,"Yes",2,Yes
+Ava Taylor,1993-05-22,2023-03-22,90000,909 Oak St,123456789,Single,Savings_Account,"['7000']",Cash,,No,2,Yes
+Liam Jackson,1982-08-12,2022-12-10,110000,101 Cedar St,9911241111,Married,Checking_Account,"['4800']",Debit_Card,,Yes,1,Yes
+Olivia Anderson,1998-04-03,2023-01-28,75000,202 Elm St,1234567890,Single,Savings_Account,"['3200', '3500']",Bank_Transfer,,Yes,3,Yes
+Noah Smith,1985-11-18,2022-06-15,98000,303 Maple St,9911242222,Divorced,Investment_Account,7800,,,"Yes",2,Yes
+Sophia Taylor,1991-03-22,2023-05-08,84000,404 Birch St,1234567,Single,Checking_Account,7100,Credit_Card,,No,1,Yes
+Elijah Miller,1989-06-28,2022-10-22,110000,505 Spruce St,1234567890,Married,Savings_Account,"['6000', '6500']",Cash,,Yes,2,Yes
+Aria Garcia,1994-09-15,2023-03-18,72000,606 Oak St,123456789,Single,Checking_Account,4800,Debit_Card,,Yes,2,Yes
+Liam Johnson,1990-04-15,2022-01-10,90000,123 Main St,9911221111,Married,Savings_Account,6000,Credit_Card,,Yes,2,Yes
+Olivia Smith,1985-08-22,2021-11-25,75000,456 Oak St,9911222222,Single,Checking_Account,"['7000', '7500']",Debit_Card,,No,0,No
+Noah Brown,1972-03-05,2023-03-10,120000,789 Pine St,9911223333,,Investment_Account,13000,Bank_Transfer,,Yes,3,Yes
+Ava Davis,1994-12-18,2022-05-15,68000,101 Elm St,1234567890,Divorced,Savings_Account,"['-5500']",,,"Yes",1,No
+Sophia Martin,1988-06-28,2022-11-05,85000,202 Maple St,123456789,,Checking_Account,"['5000', '5500']",Bank_Transfer,,Yes,2,Yes
+Jackson Taylor,1991-10-10,2023-02-22,98000,303 Oak St,9911224444,Married,Savings_Account,12000,Debit_Card,,Yes,4,Yes
+Oliver White,1975-09-02,2022-08-08,110000,404 Birch St,12345678901,,Checking_Account,7000,Bank_Transfer,,Yes,2,Yes
+Emma Martinez,1998-04-30,2021-10-20,60000,505 Spruce St,9911225555,Married,Savings_Account,"['6000', '6500']",Cash,,No,2,Yes
+Sophia Thompson,1987-11-12,2023-05-03,72000,606 Cedar St,1234567890,Single,Investment_Account,8500,Bank_Transfer,,"Yes",3,Yes
+Liam Taylor,1996-08-10,2022-07-15,95000,707 Maple St,123456789,Single,Savings_Account,"['3200']",Debit_Card,,Yes,1,Yes
+Ava Jackson,1992-01-25,2023-01-28,110000,808 Elm St,1234567890,Divorced,Checking_Account,"['4200']",,,Yes,2,Yes
+Olivia Anderson,1980-05-10,2022-06-12,78000,909 Pine St,9911229999,Single,Savings_Account,"['4800', '5000']",Bank_Transfer,,No,2,Yes
+Liam Thompson,1995-09-02,2023-04-15,84000,101 Cedar St,123456789,Married,Checking_Account,7500,Credit_Card,,Yes,2,Yes
+Ava Taylor,1983-06-28,2022-11-08,70000,202 Birch St,9911230000,Single,Investment_Account,"['6200', '6500']",Debit_Card,,Yes,1,Yes
+Noah Smith,1990-03-15,2023-01-10,80000,303 Pine St,9911231111,Married,Checking_Account,4300,Bank_Transfer,,No,0,No
+Sophia Thompson,1993-01-10,2022-12-30,92000,404 Elm St,9911232222,Single,Savings_Account,"['3200', '3500']",Cash,,Yes,2,Yes
+Jackson Taylor,1978-08-25,2023-06-22,105000,505 Pine St,12345678901,Married,Investment_Account,"['4800']",Credit_Card,,Yes,3,Yes
+Emma Brown,1992-12-05,2022-08-28,67000,606 Cedar St,9911233333,Divorced,Savings_Account,5600,Bank_Transfer,,No,1,Yes
+Oliver Martin,1986-10-22,2023-03-18,75000,707 Spruce St,1234567890,Single,Checking_Account,3200,Credit_Card,,Yes,2,Yes
+Sophia Davis,1999-02-18,2022-12-15,85000,808 Maple St,9911235555,Married,Savings_Account,"['6500']",Cash,,Yes,2,Yes
+Liam Taylor,1994-05-22,2023-01-20,64000,909 Oak St,123456789,Single,Checking_Account,"['7000', '7500']",Debit_Card
+Olivia Jackson,1981-07-08,2022-05-12,98000,404 Cedar St,9911237777,Single,Investment_Account,3200,Cash,,Yes,2,Yes
+Noah White,1997-12-18,2023-03-05,82000,505 Elm St,1234567890,Married,Checking_Account,"['4500']",Credit_Card,,No,3,Yes
+Emma Thompson,1984-10-30,2022-11-03,77000,606 Maple St,9911238888,Divorced,Savings_Account,7100,Bank_Transfer,,No,1,Yes
+Sophia Martin,1990-03-15,2023-04-15,70000,707 Birch St,1234567890,Single,Checking_Account,"['4800']",Credit_Card,,Yes,1,Yes
+Jackson Davis,1987-09-28,2022-08-08,105000,808 Spruce St,9911240000,Married,Investment_Account,4800,Bank_Transfer,,"Yes",2,Yes
+Ava Taylor,1993-05-22,2023-03-22,90000,909 Oak St,123456789,Single,Savings_Account,"['7000']",Cash,,No,2,Yes
+Liam Jackson,1982-08-12,2022-12-10,110000,101 Cedar St,9911241111,Married,Checking_Account,"['4800']",Debit_Card,,Yes,1,Yes
+Olivia Anderson,1998-04-03,2023-01-28,75000,202 Elm St,1234567890,Single,Savings_Account,"['3200', '3500']",Bank_Transfer,,Yes,3,Yes
+John Doe,1980-05-25,2022-01-15,85000,123 Main St,555-1234,Married,Savings_Account,5000,Credit_Card,,Yes,2,Yes
+Jane Smith,1995-09-12,2021-11-28,,456 Oak St,555-5678,Single,Checking_Account,8000,Debit_Card,,No,0,No
+Bob Johnson,1975-03-08,2023-02-10,105000,789 Pine St,555-9101,,Investment_Account,"[12000, '13000', 14000]",Cash,,Yes,3,Yes
+Alice Brown,1988-12-03,2022-05-20,62000,101 Elm St,555-1122,Divorced,Savings_Account,-5000,,,"Yes",1,No
+Charlie Davis,1990-07-18,2021-10-05,92000,202 Maple St,555-3344,,Checking_Account,"[6000, '7000']",Bank_Transfer,,Yes,2,Yes
+Eva White,1985-02-28,2023-04-03,78000,,555-5566,Married,Savings_Account,,Cash,,No,2,Yes
+David Miller,1970-11-15,2022-08-12,110000,404 Birch St,,Married,Checking_Account,15000,Debit_Card,,Yes,4,Yes
+Sophie Anderson,1998-06-10,2021-12-30,55000,505 Spruce St,555-9900,Single,,7000,Bank_Transfer,,"Yes",0,No
+Robert Lee,1982-09-22,2023-01-05,95000,,555-1122,Married,Savings_Account,,Credit_Card,,No,2,Yes
+Amy Garcia,1993-04-07,2022-03-18,68000,707 Oak St,555-3344,Married,Checking_Account,"[4000, '4500']",Debit_Card,,Yes,1,No
+Mark Taylor,1978-08-20,2023-06-25,120000,808 Elm St,555-5566,Single,Investment_Account,10000,,,"Yes",3,Yes
+Linda Martinez,1987-01-12,2022-07-08,60000,909 Maple St,555-7788,Divorced,Savings_Account,"[5500, 6000]",Bank_Transfer,,No,2,Yes
+Tom Jackson,1991-12-30,2023-03-22,85000,101 Cedar St,,Married,Checking_Account,7500,Credit_Card,,Yes,2,Yes
+Grace Brown,1983-07-05,2022-11-10,70000,202 Birch St,555-1122,Single,Investment_Account,"[8000, '8500']",Debit_Card,,Yes,1,Yes
+John Doe,1980-05-25,2022-01-15,85000,123 Main St,555-1234,Married,Savings_Account,5000,Credit_Card,,Yes,2,Yes
+Jane Smith,1995-09-12,2021-11-28,,456 Oak St,555-5678,Single,Checking_Account,8000,Debit_Card,,No,0,No
+Bob Johnson,1975-03-08,2023-02-10,1050000,789 Pine St,555-9101,,Investment_Account,"[12000, '13000', 14000]",Cash,,Yes,3,Yes
+Alice Brown,1988-12-03,2022-05-20,-62000,101 Elm St,555-1122,Divorced,Savings_Account,-5000,,,"Yes",1,No
+Charlie Davis,1990-07-18,2021-10-05,92000,202 Maple St,555-3344,,Checking_Account,"[6000, '7000']",Bank_Transfer,,Yes,2,Yes
+Eva White,1985-02-28,2023-04-03,780000,,555-5566,Married,Savings_Account,,Cash,,No,2,Yes
+David Miller,1970-11-15,2022-08-12,1100000,404 Birch St,,Married,Checking_Account,15000,Debit_Card,,Yes,4,Yes
+Sophie Anderson,1998-06-10,2021-12-30,550000,505 Spruce St,555-9900,Single,,7000,Bank_Transfer,,"Yes",0,No
+Robert Lee,1982-09-22,2023-01-05,950000,,555-1122,Married,Savings_Account,,Credit_Card,,No,2,Yes
+Amy Garcia,1993-04-07,2022-03-18,-68000,707 Oak St,555-3344,Married,Checking_Account,"[4000, '4500']",Debit_Card,,Yes,1,No
+Mark Taylor,1978-08-20,2023-06-25,1200000,808 Elm St,555-5566,Single,Investment_Account,10000,,,"Yes",3,Yes
+Linda Martinez,1987-01-12,2022-07-08,600000,909 Maple St,555-7788,Divorced,Savings_Account,"[5500, 6000]",Bank_Transfer,,No,2,Yes
+Tom Jackson,1991-12-30,2023-03-22,850000,101 Cedar St,,Married,Checking_Account,7500,Credit_Card,,Yes,2,Yes
+Grace Brown,1983-07-05,2022-11-10,-70000,202 Birch St,555-1122,Single,Investment_Account,"[8000, '8500']",Debit_Card,,Yes,1,Yes
+John Doe,1980-05-25,2022-01-15,85000,123 Main St,9911100250,Married,Savings_Account,5000,Credit_Card,,Yes,2,Yes
+Jane Smith,1995-09-12,2021-11-28,,456 Oak St,9911111111,Single,Checking_Account,8000,Debit_Card,,No,0,No
+Bob Johnson,1975-03-08,2023-02-10,105000,789 Pine St,9911122222,,Investment_Account,"['12000', '13000', '14000']",Cash,,Yes,3,Yes
+Alice Brown,1988-12-03,2022-05-20,62000,101 Elm St,9911133333,Divorced,Savings_Account,"['-5000']",,,"Yes",1,No
+Charlie Davis,1990-07-18,2021-10-05,92000,202 Maple St,9911144444,,Checking_Account,"['6000', '7000']",Bank_Transfer,,Yes,2,Yes
+Eva White,1985-02-28,2023-04-03,78000,,9911155555,Married,Savings_Account,,Cash,,No,2,Yes
+David Miller,1970-11-15,2022-08-12,110000,404 Birch St,,Married,Checking_Account,15000,Debit_Card,,Yes,4,Yes
+Sophie Anderson,1998-06-10,2021-12-30,55000,505 Spruce St,9911166666,Single,,7000,Bank_Transfer,,"Yes",0,No
+Robert Lee,1982-09-22,2023-01-05,95000,,9911177777,Married,Savings_Account,,Credit_Card,,No,2,Yes
+Amy Garcia,1993-04-07,2022-03-18,68000,707 Oak St,9911188888,Married,Checking_Account,"['4000', '4500']",Debit_Card,,Yes,1,No
+Mark Taylor,1978-08-20,2023-06-25,120000,808 Elm St,9911199999,Single,Investment_Account,10000,,,"Yes",3,Yes
+Linda Martinez,1987-01-12,2022-07-08,60000,909 Maple St,9911200000,Divorced,Savings_Account,"['5500', '6000']",Bank_Transfer,,No,2,Yes
+Tom Jackson,1991-12-30,2023-03-22,85000,101 Cedar St,,Married,Checking_Account,7500,Credit_Card,,Yes,2,Yes
+Grace Brown,1983-07-05,2022-11-10,70000,202 Birch St,9911201111,Single,Investment_Account,"['8000', '8500']",Debit_Card,,Yes,1,Yes
+Emily #123,1991-08-15,2023-01-02,80000,303 Oak St,9911202222,Single,Checking_Account,6000,Credit_Card,,Yes,1,Yes
+Michael-.,1986-04-18,2021-09-14,95000,404 Elm St,,Married,Savings_Account,,Cash,,"Yes",2,Yes
+Sarah.,,2023-04-30,75000,505 Pine St,9911203333,Married,Investment_Account,8500,Bank_Transfer,,"No",3,No
+Robert O'Reilly,1974-12-10,2022-08-05,110000,606 Cedar St,9911204444,Single,Investment_Account,12000,Debit_Card,,Yes,2,Yes
+Daisy 456,1989-03-22,2023-03-08,67000,707 Spruce St,9911205555,Divorced,Savings_Account,"['3000', '3200']",Credit_Card,,No,1,Yes
+Timothy <>,1997-11-05,,92000,808 Maple St,9911206666,Single,Checking_Account,5000,Cash,,"Yes",2,Yes
+Rebecca,1984-06-28,2022-12-15,68000,909 Pine St,9911207777,Married,Savings_Account,,Bank_Transfer,,No,2,Yes
+Matthew Brown,1990-09-18,2022-06-01,75000,101 Oak St,9911208888,Single,Checking_Account,"['4500']",Debit_Card
+John Doe,1980-05-25,2022-01-15,85000,123 Main St,9911100250,Married,Savings_Account,5000,Credit_Card,,Yes,2,Yes
+Jane Smith,1995-09-12,2021-11-28,,456 Oak St,9911111111,Single,Checking_Account,8000,Debit_Card,,No,0,No
+Bob Johnson,1975-03-08,2023-02-10,105000,789 Pine St,9911122222,,Investment_Account,"['12000', '13000', '14000']",Cash,,Yes,3,Yes
+Alice Brown,1988-12-03,2022-05-20,62000,101 Elm St,9911133333,Divorced,Savings_Account,"['-5000']",,,"Yes",1,No
+Charlie Davis,1990-07-18,2021-10-05,92000,202 Maple St,9911144444,,Checking_Account,"['6000', '7000']",Bank_Transfer,,Yes,2,Yes
+Eva White,1985-02-28,2023-04-03,78000,,9911155555,Married,Savings_Account,,Cash,,No,2,Yes
+David Miller,1970-11-15,2022-08-12,110000,404 Birch St,,Married,Checking_Account,15000,Debit_Card,,Yes,4,Yes
+Sophie Anderson,1998-06-10,2021-12-30,55000,505 Spruce St,9911166666,Single,,7000,Bank_Transfer,,"Yes",0,No
+Robert Lee,1982-09-22,2023-01-05,95000,,9911177777,Married,Savings_Account,,Credit_Card,,No,2,Yes
+Amy Garcia,1993-04-07,2022-03-18,68000,707 Oak St,9911188888,Married,Checking_Account,"['4000', '4500']",Debit_Card,,Yes,1,No
+Mark Taylor,1978-08-20,2023-06-25,120000,808 Elm St,9911199999,Single,Investment_Account,10000,,,"Yes",3,Yes
+Linda Martinez,1987-01-12,2022-07-08,60000,909 Maple St,9911200000,Divorced,Savings_Account,"['5500', '6000']",Bank_Transfer,,No,2,Yes
+Tom Jackson,1991-12-30,2023-03-22,85000,101 Cedar St,,Married,Checking_Account,7500,Credit_Card,,Yes,2,Yes
+Grace Brown,1983-07-05,2022-11-10,70000,202 Birch St,9911201111,Single,Investment_Account,"['8000', '8500']",Debit_Card,,Yes,1,Yes
+Emily #123,1991-08-15,2023-01-02,80000,303 Oak St,9911202222,Single,Checking_Account,6000,Credit_Card,,Yes,1,Yes
+Michael-.,1986-04-18,2021-09-14,95000,404 Elm St,,Married,Savings_Account,,Cash,,"Yes",2,Yes
+Sarah.,,2023-04-30,75000,505 Pine St,9911203333,Married,Investment_Account,8500,Bank_Transfer,,"No",3,No
+Robert O'Reilly,1974-12-10,2022-08-05,110000,606 Cedar St,9911204444,Single,Investment_Account,12000,Debit_Card,,Yes,2,Yes
+Daisy 456,1989-03-22,2023-03-08,67000,707 Spruce St,9911205555,Divorced,Savings_Account,"['3000', '3200']",Credit_Card,,No,1,Yes
+Timothy <>,1997-11-05,,92000,808 Maple St,9911206666,Single,Checking_Account,5000,Cash,,"Yes",2,Yes
+Rebecca,1984-06-28,2022-12-15,68000,909 Pine St,9911207777,Married,Savings_Account,,Bank_Transfer,,No,2,Yes
+Matthew Brown,1990-09-18,2022-06-01,75000,101 Oak St,9911208888,Single,Checking_Account,"['4500']",Debit_Card
+John Doe,1980-05-25,2022-01-15,85000,123 Main St,9911100250,Married,Savings_Account,5000,Credit_Card,,Yes,2,Yes
+Jane Smith,1995-09-12,2021-11-28,,456 Oak St,9911111111,Single,Checking_Account,8000,Debit_Card,,No,0,No
+Bob Johnson,1975-03-08,2023-02-10,105000,789 Pine St,9911122222,,Investment_Account,"['12000', '13000', '14000']",Cash,,Yes,3,Yes
+Alice Brown,1988-12-03,2022-05-20,62000,101 Elm St,9911133333,Divorced,Savings_Account,"['-5000']",,,"Yes",1,No
+Charlie Davis,1990-07-18,2021-10-05,92000,202 Maple St,9911144444,,Checking_Account,"['6000', '7000']",Bank_Transfer,,Yes,2,Yes
+Eva White,1985-02-28,2023-04-03,78000,,9911155555,Married,Savings_Account,,Cash,,No,2,Yes
+David Miller,1970-11-15,2022-08-12,110000,404 Birch St,,Married,Checking_Account,15000,Debit_Card,,Yes,4,Yes
+Sophie Anderson,1998-06-10,2021-12-30,55000,505 Spruce St,9911166666,Single,,7000,Bank_Transfer,,"Yes",0,No
+Robert Lee,1982-09-22,2023-01-05,95000,,9911177777,Married,Savings_Account,,Credit_Card,,No,2,Yes
+Amy Garcia,1993-04-07,2022-03-18,68000,707 Oak St,9911188888,Married,Checking_Account,"['4000', '4500']",Debit_Card,,Yes,1,No
+Mark Taylor,1978-08-20,2023-06-25,120000,808 Elm St,9911199999,Single,Investment_Account,10000,,,"Yes",3,Yes
+Linda Martinez,1987-01-12,2022-07-08,60000,909 Maple St,9911200000,Divorced,Savings_Account,"['5500', '6000']",Bank_Transfer,,No,2,Yes
+Tom Jackson,1991-12-30,2023-03-22,85000,101 Cedar St,,Married,Checking_Account,7500,Credit_Card,,Yes,2,Yes
+Grace Brown,1983-07-05,2022-11-10,70000,202 Birch St,9911201111,Single,Investment_Account,"['8000', '8500']",Debit_Card,,Yes,1,Yes
+Emily #123,1991-08-15,2023-01-02,80000,303 Oak St,9911202222,Single,Checking_Account,6000,Credit_Card,,Yes,1,Yes
+Michael-.,1986-04-18,2021-09-14,95000,404 Elm St,,Married,Savings_Account,,Cash,,"Yes",2,Yes
+Sarah.,,2023-04-30,75000,505 Pine St,9911203333,Married,Investment_Account,8500,Bank_Transfer,,"No",3,No
+Robert O'Reilly,1974-12-10,2022-08-05,110000,606 Cedar St,9911204444,Single,Investment_Account,12000,Debit_Card,,Yes,2,Yes
+Daisy 456,1989-03-22,2023-03-08,67000,707 Spruce St,9911205555,Divorced,Savings_Account,"['3000', '3200']",Credit_Card,,No,1,Yes
+Timothy <>,1997-11-05,,92000,808 Maple St,9911206666,Single,Checking_Account,5000,Cash,,"Yes",2,Yes
+Rebecca,1984-06-28,2022-12-15,68000,909 Pine St,9911207777,Married,Savings_Account,,Bank_Transfer,,No,2,Yes
+Matthew Brown,1990-09-18,2022-06-01,75000,101 Oak St,9911208888,Single,Checking_Account,"['4500']",Debit_Card
+Marie,1994-02-25,2023-02-28,60000,303 Pine St,9911209999,Married,Savings_Account,9000,Bank_Transfer,,"Yes",1,No
+Jack Thompson,1981-07-08,2022-05-12,98000,404 Cedar St,9911210000,Single,Investment_Account,"['7000', '7500']",Cash,,Yes,2,Yes
+Emma Taylor,1996-12-18,2023-01-20,82000,505 Elm St,9911211111,Married,Checking_Account,6200,Debit_Card,,Yes,3,Yes
+Oliver Brown,1984-10-30,2022-11-03,77000,606 Maple St,9911212222,Divorced,Savings_Account,"['4300']",Credit_Card,,No,1,Yes
+Sophia White,1990-03-15,2023-04-15,70000,707 Birch St,9911213333,Single,Checking_Account,,Bank_Transfer,,Yes,1,Yes
+Henry Davis,1987-09-28,2022-08-08,105000,808 Spruce St,,Married,Investment_Account,11000,,,"Yes",2,Yes
+Ava Martin,1993-05-22,2023-03-05,64000,909 Oak St,9911214444,Single,Savings_Account,"['4800']",Cash,,No,2,Yes
+Logan Johnson,1982-08-12,2022-12-10,90000,101 Cedar St,9911215555,Married,Checking_Account,5600,Debit_Card,,Yes,1,Yes
+Harper Anderson,1998-04-03,2023-01-28,75000,202 Elm St,9911216666,Single,Savings_Account,"['3200', '3500']",Bank_Transfer,,Yes,3,Yes
+Leo Smith,1985-11-18,2022-06-15,98000,303 Maple St,9911217777,Divorced,Investment_Account,7800,,,"Yes",2,Yes
+Grace Taylor,1991-03-22,2023-05-08,84000,404 Birch St,9911218888,Single,Checking_Account,7100,Credit_Card,,No,1,Yes
+Elijah Miller,1989-06-28,2022-10-22,110000,505 Spruce St,9911219999,Married,Savings_Account,"['6000', '6500']",Cash,,Yes,2,Yes
+Aria Garcia,1994-09-15,2023-03-18,72000,606 Oak St,9911220000,Single,Checking_Account,4800,Debit_Card,,Yes,2,Yes
+Liam Johnson,1990-04-15,2022-01-10,90000,123 Main St,991122111,Married,Savings_Account,6000,Credit_Card,,Yes,2,Yes
+Olivia Smith,1985-08-22,2021-11-25,75000,456 Oak St,9911222222,Single,Checking_Account,"['7000', '7500']",Debit_Card,,No,0,No
+Noah Brown,1972-03-05,2023-03-10,120000,789 Pine St,9911223333,,Investment_Account,13000,Bank_Transfer,,Yes,3,Yes
+Ava Davis,1994-12-18,2022-05-15,68000,101 Elm St,1234567,Divorced,Savings_Account,"['-5500']",,,"Yes",1,No
+Sophia Martin,1988-06-28,2022-11-05,85000,202 Maple St,99112244444,,Checking_Account,"['5000', '5500']",Bank_Transfer,,Yes,2,Yes
+Jackson Taylor,1991-10-10,2023-02-22,98000,303 Oak St,,Married,Savings_Account,12000,Debit_Card,,Yes,4,Yes
+Oliver White,1975-09-02,2022-08-08,110000,404 Birch St,123456789,,Checking_Account,7000,Bank_Transfer,,Yes,2,Yes
+Emma Martinez,1998-04-30,2021-10-20,60000,505 Spruce St,9911225555,Married,Savings_Account,"['6000', '6500']",Cash,,No,2,Yes
+Sophia Thompson,1987-11-12,2023-05-03,72000,606 Cedar St,99112266666,Single,Investment_Account,8500,Bank_Transfer,,"Yes",3,Yes
+Liam Taylor,1996-08-10,2022-07-15,95000,707 Maple St,9911227777,Single,Savings_Account,"['3200']",Debit_Card,,Yes,1,Yes
+Ava Jackson,1992-01-25,2023-01-28,110000,808 Elm St,1234567890,Divorced,Checking_Account,"['4200']",,Yes,2,Yes
+Olivia Anderson,1980-05-10,2022-06-12,78000,909 Pine St,9911229999,Single,Savings_Account,"['4800', '5000']",Bank_Transfer,,No,2,Yes
+Liam Thompson,1995-09-02,2023-04-15,84000,101 Cedar St,12345678,Married,Checking_Account,7500,Credit_Card,,Yes,2,Yes
+Ava Taylor,1983-06-28,2022-11-08,70000,202 Birch St,9911230000,Single,Investment_Account,"['6200', '6500']",Debit_Card,,Yes,1,Yes
+Noah Smith,1990-03-15,2023-01-10,80000,303 Pine St,9911231111,Married,Checking_Account,4300,Bank_Transfer,,No,0,No
+Sophia Thompson,1993-01-10,2022-12-30,92000,404 Elm St,9911232222,Single,Savings_Account,"['3200', '3500']",Cash,,Yes,2,Yes
+Jackson Taylor,1978-08-25,2023-06-22,105000,505 Pine St,12345678901,Married,Investment_Account,"['4800']",Credit_Card,,Yes,3,Yes
+Emma Brown,1992-12-05,2022-08-28,67000,606 Cedar St,9911233333,Divorced,Savings_Account,5600,Bank_Transfer,,No,1,Yes
+Oliver Martin,1986-10-22,2023-03-18,75000,707 Spruce St,1234567,Single,Checking_Account,3200,Credit_Card,,Yes,2,Yes
+Sophia Davis,1999-02-18,2022-12-15,85000,808 Maple St,9911235555,Married,Savings_Account,"['6500']",Cash,,Yes,2,Yes
+Liam Taylor,1994-05-22,2023-01-20,64000,909 Oak St,123456789,Single,Checking_Account,"['7000', '7500']",Debit_Card
+Olivia Jackson,1981-07-08,2022-05-12,98000,404 Cedar St,9911237777,Single,Investment_Account,3200,Cash,,Yes,2,Yes
+Noah White,1997-12-18,2023-03-05,82000,505 Elm St,1234567,Married,Checking_Account,"['4500']",Credit_Card,,No,3,Yes
+Emma Thompson,1984-10-30,2022-11-03,77000,606 Maple St,9911238888,Divorced,Savings_Account,7100,Bank_Transfer,,No,1,Yes
+Sophia Martin,1990-03-15,2023-04-15,70000,707 Birch St,1234567890,Single,Checking_Account,"['4800']",Credit_Card,,Yes,1,Yes
+Jackson Davis,1987-09-28,2022-08-08,105000,808 Spruce St,9911240000,Married,Investment_Account,4800,Bank_Transfer,,"Yes",2,Yes
+Ava Taylor,1993-05-22,2023-03-22,90000,909 Oak St,123456789,Single,Savings_Account,"['7000']",Cash,,No,2,Yes
+Liam Jackson,1982-08-12,2022-12-10,110000,101 Cedar St,9911241111,Married,Checking_Account,"['4800']",Debit_Card,,Yes,1,Yes
+Olivia Anderson,1998-04-03,2023-01-28,75000,202 Elm St,1234567890,Single,Savings_Account,"['3200', '3500']",Bank_Transfer,,Yes,3,Yes
+Noah Smith,1985-11-18,2022-06-15,98000,303 Maple St,9911242222,Divorced,Investment_Account,7800,,,"Yes",2,Yes
+Sophia Taylor,1991-03-22,2023-05-08,84000,404 Birch St,1234567,Single,Checking_Account,7100,Credit_Card,,No,1,Yes
+Elijah Miller,1989-06-28,2022-10-22,110000,505 Spruce St,1234567890,Married,Savings_Account,"['6000', '6500']",Cash,,Yes,2,Yes
+Aria Garcia,1994-09-15,2023-03-18,72000,606 Oak St,123456789,Single,Checking_Account,4800,Debit_Card,,Yes,2,Yes
+Liam Johnson,1990-04-15,2022-01-10,90000,123 Main St,9911221111,Married,Savings_Account,6000,Credit_Card,,Yes,2,Yes
+Olivia Smith,1985-08-22,2021-11-25,75000,456 Oak St,9911222222,Single,Checking_Account,"['7000', '7500']",Debit_Card,,No,0,No
+Noah Brown,1972-03-05,2023-03-10,120000,789 Pine St,9911223333,,Investment_Account,13000,Bank_Transfer,,Yes,3,Yes
+Ava Davis,1994-12-18,2022-05-15,68000,101 Elm St,1234567890,Divorced,Savings_Account,"['-5500']",,,"Yes",1,No
+Sophia Martin,1988-06-28,2022-11-05,85000,202 Maple St,123456789,,Checking_Account,"['5000', '5500']",Bank_Transfer,,Yes,2,Yes
+Jackson Taylor,1991-10-10,2023-02-22,98000,303 Oak St,9911224444,Married,Savings_Account,12000,Debit_Card,,Yes,4,Yes
+Oliver White,1975-09-02,2022-08-08,110000,404 Birch St,12345678901,,Checking_Account,7000,Bank_Transfer,,Yes,2,Yes
+Emma Martinez,1998-04-30,2021-10-20,60000,505 Spruce St,9911225555,Married,Savings_Account,"['6000', '6500']",Cash,,No,2,Yes
+Sophia Thompson,1987-11-12,2023-05-03,72000,606 Cedar St,1234567890,Single,Investment_Account,8500,Bank_Transfer,,"Yes",3,Yes
+Liam Taylor,1996-08-10,2022-07-15,95000,707 Maple St,123456789,Single,Savings_Account,"['3200']",Debit_Card,,Yes,1,Yes
+Ava Jackson,1992-01-25,2023-01-28,110000,808 Elm St,1234567890,Divorced,Checking_Account,"['4200']",,,Yes,2,Yes
+Olivia Anderson,1980-05-10,2022-06-12,78000,909 Pine St,9911229999,Single,Savings_Account,"['4800', '5000']",Bank_Transfer,,No,2,Yes
+Liam Thompson,1995-09-02,2023-04-15,84000,101 Cedar St,123456789,Married,Checking_Account,7500,Credit_Card,,Yes,2,Yes
+Ava Taylor,1983-06-28,2022-11-08,70000,202 Birch St,9911230000,Single,Investment_Account,"['6200', '6500']",Debit_Card,,Yes,1,Yes
+Noah Smith,1990-03-15,2023-01-10,80000,303 Pine St,9911231111,Married,Checking_Account,4300,Bank_Transfer,,No,0,No
+Sophia Thompson,1993-01-10,2022-12-30,92000,404 Elm St,9911232222,Single,Savings_Account,"['3200', '3500']",Cash,,Yes,2,Yes
+Jackson Taylor,1978-08-25,2023-06-22,105000,505 Pine St,12345678901,Married,Investment_Account,"['4800']",Credit_Card,,Yes,3,Yes
+Emma Brown,1992-12-05,2022-08-28,67000,606 Cedar St,9911233333,Divorced,Savings_Account,5600,Bank_Transfer,,No,1,Yes
+Oliver Martin,1986-10-22,2023-03-18,75000,707 Spruce St,1234567890,Single,Checking_Account,3200,Credit_Card,,Yes,2,Yes
+Sophia Davis,1999-02-18,2022-12-15,85000,808 Maple St,9911235555,Married,Savings_Account,"['6500']",Cash,,Yes,2,Yes
+Liam Taylor,1994-05-22,2023-01-20,64000,909 Oak St,123456789,Single,Checking_Account,"['7000', '7500']",Debit_Card
+Olivia Jackson,1981-07-08,2022-05-12,98000,404 Cedar St,9911237777,Single,Investment_Account,3200,Cash,,Yes,2,Yes
+Noah White,1997-12-18,2023-03-05,82000,505 Elm St,1234567890,Married,Checking_Account,"['4500']",Credit_Card,,No,3,Yes
+Emma Thompson,1984-10-30,2022-11-03,77000,606 Maple St,9911238888,Divorced,Savings_Account,7100,Bank_Transfer,,No,1,Yes
+Sophia Martin,1990-03-15,2023-04-15,70000,707 Birch St,1234567890,Single,Checking_Account,"['4800']",Credit_Card,,Yes,1,Yes
+Jackson Davis,1987-09-28,2022-08-08,105000,808 Spruce St,9911240000,Married,Investment_Account,4800,Bank_Transfer,,"Yes",2,Yes
+Ava Taylor,1993-05-22,2023-03-22,90000,909 Oak St,123456789,Single,Savings_Account,"['7000']",Cash,,No,2,Yes
+Liam Jackson,1982-08-12,2022-12-10,110000,101 Cedar St,9911241111,Married,Checking_Account,"['4800']",Debit_Card,,Yes,1,Yes
+Olivia Anderson,1998-04-03,2023-01-28,75000,202 Elm St,1234567890,Single,Savings_Account,"['3200', '3500']",Bank_Transfer,,Yes,3,Yes
+John Doe,1980-05-25,2022-01-15,85000,123 Main St,555-1234,Married,Savings_Account,5000,Credit_Card,,Yes,2,Yes
+Jane Smith,1995-09-12,2021-11-28,,456 Oak St,555-5678,Single,Checking_Account,8000,Debit_Card,,No,0,No
+Bob Johnson,1975-03-08,2023-02-10,105000,789 Pine St,555-9101,,Investment_Account,"[12000, '13000', 14000]",Cash,,Yes,3,Yes
+Alice Brown,1988-12-03,2022-05-20,62000,101 Elm St,555-1122,Divorced,Savings_Account,-5000,,,"Yes",1,No
+Charlie Davis,1990-07-18,2021-10-05,92000,202 Maple St,555-3344,,Checking_Account,"[6000, '7000']",Bank_Transfer,,Yes,2,Yes
+Eva White,1985-02-28,2023-04-03,78000,,555-5566,Married,Savings_Account,,Cash,,No,2,Yes
+David Miller,1970-11-15,2022-08-12,110000,404 Birch St,,Married,Checking_Account,15000,Debit_Card,,Yes,4,Yes
+Sophie Anderson,1998-06-10,2021-12-30,55000,505 Spruce St,555-9900,Single,,7000,Bank_Transfer,,"Yes",0,No
+Robert Lee,1982-09-22,2023-01-05,95000,,555-1122,Married,Savings_Account,,Credit_Card,,No,2,Yes
+Amy Garcia,1993-04-07,2022-03-18,68000,707 Oak St,555-3344,Married,Checking_Account,"[4000, '4500']",Debit_Card,,Yes,1,No
+Mark Taylor,1978-08-20,2023-06-25,120000,808 Elm St,555-5566,Single,Investment_Account,10000,,,"Yes",3,Yes
+Linda Martinez,1987-01-12,2022-07-08,60000,909 Maple St,555-7788,Divorced,Savings_Account,"[5500, 6000]",Bank_Transfer,,No,2,Yes
+Tom Jackson,1991-12-30,2023-03-22,85000,101 Cedar St,,Married,Checking_Account,7500,Credit_Card,,Yes,2,Yes
+Grace Brown,1983-07-05,2022-11-10,70000,202 Birch St,555-1122,Single,Investment_Account,"[8000, '8500']",Debit_Card,,Yes,1,Yes
+John Doe,1980-05-25,2022-01-15,85000,123 Main St,555-1234,Married,Savings_Account,5000,Credit_Card,,Yes,2,Yes
+Jane Smith,1995-09-12,2021-11-28,,456 Oak St,555-5678,Single,Checking_Account,8000,Debit_Card,,No,0,No
+Bob Johnson,1975-03-08,2023-02-10,1050000,789 Pine St,555-9101,,Investment_Account,"[12000, '13000', 14000]",Cash,,Yes,3,Yes
+Alice Brown,1988-12-03,2022-05-20,-62000,101 Elm St,555-1122,Divorced,Savings_Account,-5000,,,"Yes",1,No
+Charlie Davis,1990-07-18,2021-10-05,92000,202 Maple St,555-3344,,Checking_Account,"[6000, '7000']",Bank_Transfer,,Yes,2,Yes
+Eva White,1985-02-28,2023-04-03,780000,,555-5566,Married,Savings_Account,,Cash,,No,2,Yes
+David Miller,1970-11-15,2022-08-12,1100000,404 Birch St,,Married,Checking_Account,15000,Debit_Card,,Yes,4,Yes
+Sophie Anderson,1998-06-10,2021-12-30,550000,505 Spruce St,555-9900,Single,,7000,Bank_Transfer,,"Yes",0,No
+Robert Lee,1982-09-22,2023-01-05,950000,,555-1122,Married,Savings_Account,,Credit_Card,,No,2,Yes
+Amy Garcia,1993-04-07,2022-03-18,-68000,707 Oak St,555-3344,Married,Checking_Account,"[4000, '4500']",Debit_Card,,Yes,1,No
+Mark Taylor,1978-08-20,2023-06-25,1200000,808 Elm St,555-5566,Single,Investment_Account,10000,,,"Yes",3,Yes
+Linda Martinez,1987-01-12,2022-07-08,600000,909 Maple St,555-7788,Divorced,Savings_Account,"[5500, 6000]",Bank_Transfer,,No,2,Yes
+Tom Jackson,1991-12-30,2023-03-22,850000,101 Cedar St,,Married,Checking_Account,7500,Credit_Card,,Yes,2,Yes
+Grace Brown,1983-07-05,2022-11-10,-70000,202 Birch St,555-1122,Single,Investment_Account,"[8000, '8500']",Debit_Card,,Yes,1,Yes
